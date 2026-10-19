@@ -1,0 +1,6 @@
+account_id,customer_id,account_type,balance
+2001,1001,Savings,25000.00
+2002,1002,Current,62000.00
+2003,1003,Savings,14500.00
+2004,1004,Savings,38000.00
+2005,1005,Current,51000.00
